@@ -13,14 +13,14 @@ import java.util.concurrent.TimeUnit;
 public class Utils_DRY {
 
 
-   public static WebDriver driver;                         // you can create one object of the webdriver to reuse and memory
+    public static WebDriver driver;                         // you can create one object of the webdriver to reuse and memory
 
-    public static WebDriver driverSetup(String browser){   // utilatily method that helps us to save time and storage . Don't store it in the test class to remember and have it handy.
+    public static WebDriver driverSetup(String browser) {   // utilatily method that helps us to save time and storage . Don't store it in the test class to remember and have it handy.
 
-        if (driver !=null){
+        if (driver != null) {
             return driver;                                // singleton patter when we wanna use the only one object
         }
-        WebDriver driver;
+//        WebDriver driver;
 
 
         switch (browser.toLowerCase()) {
@@ -49,18 +49,18 @@ public class Utils_DRY {
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
         }
-        driver.manage().window().fullscreen();
+        driver.manage().window().maximize();
 
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS); // can't combine with explicit with implicit wait but it is unpredictable.
 
         return driver;
     }
 
-    public static void closeDriver(){
+    public static void closeDriver() {
 
-        if (driver !=null){
+        if (driver != null) {
             driver.quit();
-            driver=null;
+            driver = null;
         }
     }
 
