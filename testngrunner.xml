@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Runner-Techtorial">
+    <test name="Test - Tests">
+        <classes>
+            <class name="com.techtorial.Tests.TestNgPractice.TestNG_Annotations"></class>
+            <class name="com.techtorial.Tests.TestNgPractice.TestNG_Annotation2"></class>
+        </classes>
+    </test>
+    <test name="Test - Test">
+        <classes>
+            <class name="com.techtorial.Tests.TestNgPractice.TestNG_Annotations"></class>
+        </classes>
+    </test>
+</suite>
+
