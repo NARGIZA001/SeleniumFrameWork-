@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05c4ab8c-a125-4cc6-90ee-29b62310cb96" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_webdriver_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_webdriver_webdriver_common_0_9_7089.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/credentials.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/FileReading/ReadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JScript/JSIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/Bonanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/OrangeHRMPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Cookies/Cookies1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HeadlessDriver/HTMLUnitDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HeadlessDriver/HeadLessIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HeadlessDriver/PhantomJSdriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HeadlessDriver/phantomScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/BonanzaHomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Iframe/amazonIframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/TestNgParameterPractice/OrangeHRMDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/BrowserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/getProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumIntroduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntroduction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/ClothingAndShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/ClothingAndShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/EtsyHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Pages/EtsyHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/HORIZONTAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/HORIZONTAL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/HoverOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/HoverOver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/ProjectAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/AlertPractice/ProjectAutomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/DropDown/After/Anotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/DropDown/After/Anotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/DropDown/DropDownIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/DropDown/DropDownIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWorkB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWorkB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/HomeWorks/HomeWork_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/MouseAction/MouseAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/MouseAction/MouseAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/INSTAGRAM_LIKE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/INSTAGRAM_LIKE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/JeweleryAndAccessoriesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/JeweleryAndAccessoriesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/PracticeSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Practice/PracticeSelenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/ScreenShots/ScreenshotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/ScreenShots/ScreenshotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Synchronization/Synchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Synchronization/Synchronization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/TestNgPractice/TestNG_Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/TestNgPractice/TestNG_Annotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/Google.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/Google.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/MultipleWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/Utils_DRY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/UtilsDRY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Pages/ClothingAndShoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Pages/ClothingAndShoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Pages/EtsyHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Pages/EtsyHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/HORIZONTAL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/HORIZONTAL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/HoverOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/HoverOver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/ProjectAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/AlertPractice/ProjectAutomation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/DropDown/After/Anotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/DropDown/After/Anotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWorkB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWorkB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/HomeWorks/HomeWork_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/MouseAction/MouseAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/MouseAction/MouseAction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/INSTAGRAM_LIKE.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/INSTAGRAM_LIKE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/JeweleryAndAccessoriesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/JeweleryAndAccessoriesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/PracticeSelenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Practice/PracticeSelenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/ScreenShots/ScreenshotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/ScreenShots/ScreenshotTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Synchronization/Synchronization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/Synchronization/Synchronization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/TestNgPractice/TestNG_Annotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/TestNgPractice/TestNG_Annotations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/WindowHandle/Google.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techtorial/Tests/WindowHandle/Google.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techtorial/UTILS/Utils_DRY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test�java/com/techtorial/JScript/JSIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techtorial/JScript/JSIntro.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +18,7 @@
       <file leaf-file-name="BrowserUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/BrowserUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
+            <state relative-caret-position="890">
               <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -154,7 +75,7 @@
       <file leaf-file-name="MultipleWindows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/MultipleWindows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="420">
               <caret line="35" selection-start-line="34" selection-start-column="61" selection-end-line="35" />
             </state>
           </provider>
@@ -163,7 +84,7 @@
       <file leaf-file-name="amazonIframe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Iframe/amazonIframe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
+            <state relative-caret-position="1125">
               <caret line="84" column="68" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="68" />
             </state>
           </provider>
@@ -172,8 +93,8 @@
       <file leaf-file-name="MouseAction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/MouseAction/MouseAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="43" />
+            <state relative-caret-position="990">
+              <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -287,18 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="SeleniumIntroduction" type="cbb8eebc:String" user="SeleniumIntroduction" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -347,6 +256,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SeleniumIntroduction" type="cbb8eebc:String" user="SeleniumIntroduction" />
             </path>
           </expand>
           <select />
@@ -599,6 +520,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571877315272</updated>
     </task>
+    <task id="LOCAL-00001" summary="My Selenium files">
+      <created>1574817076493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574817076493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -643,12 +572,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297568" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2005772" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -667,14 +596,14 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3648485" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19241774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3648485" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -694,6 +623,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My Selenium files" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Selenium files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1011,22 +944,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/WindowHandle/MultipleWindows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="420">
           <caret line="35" selection-start-line="34" selection-start-column="61" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/Iframe/amazonIframe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
+        <state relative-caret-position="1125">
           <caret line="84" column="68" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/Tests/MouseAction/MouseAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="43" />
+        <state relative-caret-position="990">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1039,7 +972,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/techtorial/UTILS/BrowserUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
+        <state relative-caret-position="890">
           <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
