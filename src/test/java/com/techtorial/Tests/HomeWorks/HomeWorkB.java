@@ -1,18 +1,11 @@
 package com.techtorial.Tests.HomeWorks;
 
-import com.techtorial.UTILS.Utils_DRY;
-import org.testng.annotations.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
-
 public class HomeWorkB {
    /* WebDriver driver;
     @Before
     public void setup(){
 ​
-        driver= Utils_DRY.driverSetup("CHROME");
+        driver= UtilsDRY.driverSetup("CHROME");
     }
 ​
     @Test

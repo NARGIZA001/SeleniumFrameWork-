@@ -1,11 +1,9 @@
 package com.techtorial.Tests.Practice;
 
 import com.techtorial.Pages.JeweleryAndAccessoryPage;
-import com.techtorial.UTILS.Utils_DRY;
-import org.openqa.selenium.By;
+import com.techtorial.UTILS.UtilsDRY;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.Wait;
@@ -25,7 +23,7 @@ public class JeweleryAndAccessoriesTest{
    @BeforeClass
   public void setUp (){
 
-    driver =Utils_DRY.driverSetup("chrome");
+    driver =UtilsDRY.driverSetup("chrome");
 
 }
 

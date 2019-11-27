@@ -53,6 +53,7 @@ public class DropDownIntro {
 
        optionSelect.selectByIndex(2);
 
+
       // optionSelect.selectByVisibleText("Option 2");
 
 

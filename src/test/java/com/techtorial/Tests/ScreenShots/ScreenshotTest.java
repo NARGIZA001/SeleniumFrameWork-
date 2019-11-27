@@ -1,6 +1,6 @@
 package com.techtorial.Tests.ScreenShots;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.testng.ITestResult;
@@ -20,7 +20,7 @@ public class ScreenshotTest {
     @BeforeClass
     public void setup(){
 
-        driver =Utils_DRY.driverSetup("chrome");
+        driver =UtilsDRY.driverSetup("chrome");
     }
 
     @Test

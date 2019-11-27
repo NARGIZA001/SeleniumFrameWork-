@@ -1,6 +1,6 @@
 package com.techtorial.Tests.WindowHandle;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.openqa.selenium.By;
@@ -18,7 +18,7 @@ public class Google {
     @BeforeClass
     public void setUp (){
 
-        driver =Utils_DRY.driverSetup("chrome");
+        driver =UtilsDRY.driverSetup("chrome");
 
     }
 

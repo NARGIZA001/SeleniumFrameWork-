@@ -1,6 +1,6 @@
 package com.techtorial.Tests.DropDown.After;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -14,13 +14,13 @@ public class Anotation {
 
     public void AlertINTRO () {
 
-      driver= Utils_DRY.driverSetup("Chrome"); // using our method fro util class
+      driver= UtilsDRY.driverSetup("Chrome"); // using our method fro util class
 
     }
 
     @BeforeClass
     public void setUP(){
-        driver=Utils_DRY.driverSetup("Chrome");
+        driver=UtilsDRY.driverSetup("Chrome");
     }
 
     @AfterClass

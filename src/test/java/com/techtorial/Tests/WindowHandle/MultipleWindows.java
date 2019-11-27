@@ -56,7 +56,7 @@ public class MultipleWindows {
         WebElement clickHere2 = driver.findElement(By.xpath("//a[@href='/windows/new']"));//<a href="/windows/new" ,="" target="_blank">Click Here</a>
         clickHere2.click();
 
-        Set <String> setOfwindowsThree= driver.getWindowHandles();
+       Set <String> setOfwindowsThree= driver.getWindowHandles();
 
         String windowsThree="";
 

@@ -1,6 +1,6 @@
 package com.techtorial.Tests.MouseAction;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,7 +15,7 @@ public class MouseAction {
     @BeforeClass
     public void setUp (){
 
-        driver =Utils_DRY.driverSetup("chrome");
+        driver =UtilsDRY.driverSetup("chrome");
         // driver first time initialize in this line
 
     }
@@ -25,10 +25,10 @@ public class MouseAction {
 
         driver.get("www.google.com");
 
-        driver=Utils_DRY.driverSetup("chrome");
+        driver=UtilsDRY.driverSetup("chrome");
         // since we initialized it before, it will not initialize in this line because of singleton pattern
 
-        driver=Utils_DRY.driverSetup("ff");
+        driver=UtilsDRY.driverSetup("ff");
 
     }
 

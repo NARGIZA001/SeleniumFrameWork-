@@ -1,6 +1,6 @@
 package com.techtorial.Tests.Practice;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -20,7 +20,7 @@ public class PracticeSelenium {
         @BeforeClass
         public void setUp (){
 
-            driver =Utils_DRY.driverSetup("chrome");
+            driver =UtilsDRY.driverSetup("chrome");
 
         }
 

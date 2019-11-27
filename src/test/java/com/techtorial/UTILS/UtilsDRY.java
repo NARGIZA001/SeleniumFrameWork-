@@ -10,7 +10,7 @@ import org.openqa.selenium.opera.OperaDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class Utils_DRY {
+public class UtilsDRY {
 
 
     public static WebDriver driver;                         // you can create one object of the webdriver to reuse and memory

@@ -1,6 +1,6 @@
 package com.techtorial.Tests.Practice;
 
-import com.techtorial.UTILS.Utils_DRY;
+import com.techtorial.UTILS.UtilsDRY;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeClass;
 
@@ -11,7 +11,7 @@ public class INSTAGRAM_LIKE {
     @BeforeClass
     public void setUp (){
 
-        driver =Utils_DRY.driverSetup("chrome ");
+        driver =UtilsDRY.driverSetup("chrome ");
 
     }
 
